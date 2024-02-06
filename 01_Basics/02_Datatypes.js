@@ -26,7 +26,7 @@ symbol
 
 
 console.log(typeof("Amatulla"))
-console.log(typeof(undefined))
-console.log(typeof(null))
+console.log(typeof(undefined)) //output:undefined
+console.log(typeof(null)) //output:object
 
 
