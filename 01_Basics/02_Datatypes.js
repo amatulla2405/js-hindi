@@ -1,4 +1,12 @@
+
 "use strict"  //treat all JS code as newer version
+
+
+
+//alert(3+3)   //will not work because we are using nodejs not browser
+
+console.log(3+3)
+console.log("Amatulla")
 
 //alert(3+3)--->will not work as we are using nodejs, not browser
 
@@ -28,5 +36,6 @@ symbol
 console.log(typeof("Amatulla"))
 console.log(typeof(undefined)) //output:undefined
 console.log(typeof(null)) //output:object
+
 
 
